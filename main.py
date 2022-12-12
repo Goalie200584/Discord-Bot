@@ -58,10 +58,10 @@ async def on_message(message):
     
   if message.content.startswith('/pufferboi'):
      await message.channel.send('https://www.youtube.com/watch?v=qKxfWd79HFI')
-  if message.content.startswith ('/bang'):
+  if message.content.startswith ('/nice'):
      await message.channel.send ('Your dad is very nice' + tylerid)
   
-  if message.content.startswith('/bevan'):
+  if message.content.startswith('/niceevan'):
      await message.channel.send('Your dad is very nice' + evanid)
      
   if message.content.startswith('/ah ok'):
