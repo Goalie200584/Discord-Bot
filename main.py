@@ -59,13 +59,13 @@ async def on_message(message):
   if message.content.startswith('/pufferboi'):
      await message.channel.send('https://www.youtube.com/watch?v=qKxfWd79HFI')
   if message.content.startswith ('/bang'):
-     await message.channel.send ('I WILL bang ur dad ' + tylerid)
+     await message.channel.send ('Your dad is very nice' + tylerid)
   
   if message.content.startswith('/bevan'):
-     await message.channel.send('I WILL bang ur dad ' + evanid)
+     await message.channel.send('Your dad is very nice' + evanid)
      
   if message.content.startswith('/ah ok'):
-     await message.channel.send(tylerid + ' loves foldable dildos')
+     await message.channel.send(tylerid + ' loves ice cream')
 
   if message.content.startswith('/ideas'):
       await message.channel.send('@everyone What do you want the Bot to do?')
